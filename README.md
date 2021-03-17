@@ -16,7 +16,7 @@ Download Link: https://appsenjoy.com/aepxu
 ##### Please contact me on skype. (live:turing311)
 
 ### - Infared Face Anti Spoofing SDK
-##### Please contact me on skype. (live:turing311)
+##### Please contact me.
 
 ### - Depth based Face Anti Spoofing SDK
-##### Please contact me on skype. (live:turing311)
+##### Please contact me.
