@@ -14,3 +14,9 @@ Download Link: https://appsenjoy.com/aepxu
 
 ### - Face Anti Spoofing iOS APP
 ##### Please contact me on skype. (live:turing311)
+
+### - Infared Face Anti Spoofing SDK
+##### Please contact me on skype. (live:turing311)
+
+### - Depth based Face Anti Spoofing SDK
+##### Please contact me on skype. (live:turing311)
