@@ -7,11 +7,6 @@ Robust, Commercial Grade Face Liveness Detection Android / iOS APP (Face Anti Sp
 
 Download Link: https://appsenjoy.com/aZFjH
 
-### - Action based Face Anti Spoofing Android APP 
-[![QR Code](https://chart.googleapis.com/chart?chs=150&cht=qr&chl=https://appsenjoy.com/hGKTk&choe=UTF-8&chld=|0)](https://appsenjoy.com/hGKTk)
-
-Download Link: https://appsenjoy.com/hGKTk
-
 ### - Face Anti Spoofing iOS APP
 Send me the UDID of your phone through skype. (live:turing311)
 
