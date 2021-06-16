@@ -3,7 +3,7 @@ Robust, Commercial Grade Face Liveness Detection Android / iOS APP (Face Anti Sp
 
 My Website: https://turingtech.vip
 
-![Demo Video](https://raw.githubusercontent.com/Nikit333/Face-Anti-Spoofing-Android-iOS/main/2.gif)
+![Demo Video](https://raw.githubusercontent.com/Turing311/Face_Liveness_Detection_Android_iOS/main/2.gif)
 
 ### - Passive (Silent) Face Anti Spoofing Android APP  (2021.6.14 updated)
 [![QR Code](https://chart.googleapis.com/chart?chs=150&cht=qr&chl=https://appsenjoy.com/gCUgH&choe=UTF-8&chld=|0)](https://appsenjoy.com/gCUgH)
