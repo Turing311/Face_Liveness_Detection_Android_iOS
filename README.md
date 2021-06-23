@@ -7,9 +7,8 @@ My Website: https://turingtech.vip
 
 ### - Passive (Silent) Face Anti Spoofing Android APP  (2021.6.14 updated)
 
-![GooglePlay](https://user-images.githubusercontent.com/60502049/123087444-23097e00-d457-11eb-8b56-5d6663f58094.png)
+<img src="https://user-images.githubusercontent.com/60502049/123087444-23097e00-d457-11eb-8b56-5d6663f58094.png" width="256">
 
-Download link: https://i.diawi.com/Pjgwak
 ### - Face Anti Spoofing iOS APP
 ##### Send me the UDID of your phone through skype. (live:turing311)
 
