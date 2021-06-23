@@ -6,7 +6,8 @@ My Website: https://turingtech.vip
 ![Demo Video](https://raw.githubusercontent.com/Turing311/Face_Liveness_Detection_Android_iOS/main/2.gif)
 
 ### - Passive (Silent) Face Anti Spoofing Android APP  (2021.6.14 updated)
-![Pjgwak_small](https://user-images.githubusercontent.com/60502049/122488911-1927eb00-d011-11eb-9527-bf0d54dfb0b0.png)
+
+![GooglePlay](https://user-images.githubusercontent.com/60502049/123087444-23097e00-d457-11eb-8b56-5d6663f58094.png)
 
 Download link: https://i.diawi.com/Pjgwak
 ### - Face Anti Spoofing iOS APP
@@ -18,4 +19,4 @@ Download link: https://i.diawi.com/Pjgwak
 ### - Depth based Face Anti Spoofing SDK
 ##### Please contact me.
 
-2021.06.18 updated
+2021.06.23 updated
