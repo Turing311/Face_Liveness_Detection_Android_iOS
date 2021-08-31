@@ -18,4 +18,4 @@ My Website: https://turingtech.vip
 ### - Depth based Face Anti Spoofing SDK
 ##### Please contact me.
 
-2021.06.23 updated
+2021.08.31 updated
